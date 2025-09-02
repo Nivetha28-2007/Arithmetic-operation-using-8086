@@ -72,8 +72,8 @@ END
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
-<img width="616" height="313" alt="Screenshot 2025-08-13 112746" src="https://github.com/user-attachments/assets/f6b4e620-b7a7-4eb4-bee1-f7ba14aea1a2" />
-
+![add code](https://github.com/user-attachments/assets/8b1009d6-bcd6-4345-870b-a5285555975f)
+!![add code output](https://github.com/user-attachments/assets/c7b2332d-06e7-456d-bbf6-672204bd78f1)
 
 
 ## 2. SUBTRACTION
@@ -128,12 +128,12 @@ END
 
 ![SB MC](https://github.com/user-attachments/assets/04d347f1-27cc-41b2-8d9c-b1deb96dd8a8)
 
-
-
 ---
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+![sub code](https://github.com/user-attachments/assets/46edd6c0-350a-4394-9289-079e25f97dcc)
 
 ![sub op](https://github.com/user-attachments/assets/7d1ae894-7e0d-4549-a587-3863ad3d24bc)
 
@@ -191,6 +191,9 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+
+![mul code](https://github.com/user-attachments/assets/243184fd-6749-4a3e-ad0b-8f111b769c52)
+
 ![mul op](https://github.com/user-attachments/assets/fe7171cf-f669-42b3-a05d-456d2db488af)
 
 
@@ -243,6 +246,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+
+![div code](https://github.com/user-attachments/assets/c81c3497-1677-4133-9830-7559712a0230)
 
 ![div op](https://github.com/user-attachments/assets/2d53a9e4-fb5e-4585-8307-7d86a5c95154)
 
